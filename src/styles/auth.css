@@ -1,0 +1,16 @@
+.otpInputContainer{
+    width:50%;
+    margin-top: 5px;
+}
+.otpInput{
+    border: 1px solid #d6d8db;
+    width:35px !important;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.otpInput:focus{
+    outline: none;
+    border: none;
+    border: 1px solid gray;
+}
